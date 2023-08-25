@@ -31,3 +31,10 @@ c = 27
 
 resultadoSuma = a + b + c
 print(resultadoSuma);
+
+# calculation
+height = 1.79
+weight = 68.7
+
+bmi = height / weight ** 2
+print(bmi)
